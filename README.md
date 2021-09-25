@@ -21,19 +21,21 @@
 
 ## Certificate
 
-1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/ec96cc492939f0f8627844210f98d3fd)
-2. [Convolutional Neural Network in Tensorflow](https://www.coursera.org/account/accomplishments/verify/J5XFCSFLF66D)
-3. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/D26JVBQEE4YY)
-4. [Sequence, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/9DJTEJ6HFTCB)
-5. [DeepLearning.AI TensorFlow Developer (Specialization Certificate)](https://www.coursera.org/account/accomplishments/professional-cert/KCQGYG2KZB2F)
+1. [Neural Networks and Deep Learning]
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
+3. [Structuring Machine Learning Projects]
+4. [Convolutional Neural Networks]
+5. [Sequence Models]()
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
-* [Convolutional Neural Network in Tensorflow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-* [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
-* [Sequence, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+* [Neural Networks and Deep Learning]
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
+* [Structuring Machine Learning Projects]
+* [Convolutional Neural Networks]
+* [Sequence Models]()
+
 
 ----------------------------------------------------------------------------------------------------------------
 
